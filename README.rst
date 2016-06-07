@@ -71,7 +71,7 @@ Installation and supported operating systems
 
 * `OSX desktop <https://sevabot-skype-bot.readthedocs.org/en/latest/osx.html>`_
 
-* `Vagrant virtual machien deployments <https://sevabot-skype-bot.readthedocs.org/en/latest/vagrant.html>`_
+* `Vagrant virtual machine deployments <https://sevabot-skype-bot.readthedocs.org/en/latest/vagrant.html>`_
 
 Windows installation works in theory, but currently no core developer run Windows.
 
